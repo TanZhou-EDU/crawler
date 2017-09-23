@@ -10,7 +10,7 @@
   * [流程控制](pythonji-chu/liu-cheng-kong-zhi.md)
   * [列表 List](pythonji-chu/lie-biao-list.md)
   * [元组 Tuple](pythonji-chu/yuan-zu-tuple.md)
-  * 字典 Dictionary
+  * [字典 Dictionary](pythonji-chu/zi-dian-dictionary.md)
   * [字符串 String](pythonji-chu/zi-fu-chuan.md)
   * [数字 Number](pythonji-chu/shu-zi-number.md)
 
