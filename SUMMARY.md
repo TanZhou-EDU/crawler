@@ -8,8 +8,8 @@
   * [数据类型转换](pythonji-chu/shu-ju-lei-xing-zhuan-huan.md)
   * [运算和运算符](pythonji-chu/yun-suan-he-yun-suan-fu.md)
   * [流程控制](pythonji-chu/liu-cheng-kong-zhi.md)
-  * [列表list](pythonji-chu/lie-biao-list.md)
-  * [元组tuple](pythonji-chu/yuan-zu-tuple.md)
-  * [字典dict](pythonji-chu/zi-dian-dict.md)
-  * [集合set](pythonji-chu/ji-he-set.md)
+  * [列表 List](pythonji-chu/lie-biao-list.md)
+  * [元组 Tuple](pythonji-chu/yuan-zu-tuple.md)
+  * 字典 Dictionary
+  * [字符串 String](pythonji-chu/zi-fu-chuan.md)
 
