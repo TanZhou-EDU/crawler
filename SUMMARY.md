@@ -14,4 +14,5 @@
   * [字符串 String](pythonji-chu/zi-fu-chuan.md)
   * [数字 Number](pythonji-chu/shu-zi-number.md)
   * [字符串格式化](pythonji-chu/zi-fu-chuan-ge-shi-hua.md)
+  * [正则表达式](pythonji-chu/zheng-ze-biao-da-shi.md)
 
