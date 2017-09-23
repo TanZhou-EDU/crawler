@@ -23,5 +23,7 @@
   * [函数](pythonzhong-ji/han-shu.md)
     * [匿名函数](pythonzhong-ji/han-shu/ni-ming-han-shu.md)
     * 闭包函数
-    * 递归函数
+    * [递归函数](pythonzhong-ji/han-shu/di-gui-han-shu.md)
+  * [IO编程](pythonzhong-ji/iobian-cheng.md)
+    * [os模块和shutil模块](pythonzhong-ji/iobian-cheng/osmo-kuai-he-shutil-mo-kuai.md)
 
