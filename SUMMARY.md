@@ -12,4 +12,5 @@
   * [元组 Tuple](pythonji-chu/yuan-zu-tuple.md)
   * 字典 Dictionary
   * [字符串 String](pythonji-chu/zi-fu-chuan.md)
+  * [数字 Number](pythonji-chu/shu-zi-number.md)
 
