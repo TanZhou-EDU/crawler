@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [潭州Python爬虫学院简介](README.md)
 * [Python基础](pythonji-chu.md)
   * [环境安装](pythonji-chu/pythonhuan-jing-an-zhuang.md)
   * [基本语法使用](pythonji-chu/pythonde-yu-yan-te-se.md)
@@ -13,4 +13,5 @@
   * [字典 Dictionary](pythonji-chu/zi-dian-dictionary.md)
   * [字符串 String](pythonji-chu/zi-fu-chuan.md)
   * [数字 Number](pythonji-chu/shu-zi-number.md)
+  * [字符串格式化](pythonji-chu/zi-fu-chuan-ge-shi-hua.md)
 
