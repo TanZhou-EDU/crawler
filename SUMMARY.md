@@ -28,7 +28,7 @@
     * [os模块和shutil模块](pythonzhong-ji/iobian-cheng/osmo-kuai-he-shutil-mo-kuai.md)
 * [Python高级](pythongao-ji.md)
   * [面向对象程序设计](pythongao-ji/mian-xiang-dui-xiang-cheng-xu-she-ji.md)
-  * 描述器
+  * [描述器](pythongao-ji/miao-shu-qi.md)
   * 装饰器
   * 生成器
 
