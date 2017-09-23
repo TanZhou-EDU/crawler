@@ -15,4 +15,6 @@
   * [数字 Number](pythonji-chu/shu-zi-number.md)
   * [字符串格式化](pythonji-chu/zi-fu-chuan-ge-shi-hua.md)
   * [正则表达式](pythonji-chu/zheng-ze-biao-da-shi.md)
+* [Python中级](pythonzhong-ji.md)
+  * [正则表达式](pythonzhong-ji/zheng-ze-biao-da-shi.md)
 
