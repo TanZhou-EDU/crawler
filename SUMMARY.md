@@ -20,4 +20,8 @@
     * [包管理工具pip](pythonzhong-ji/mo-kuai-guan-li/bao-guan-li-gong-ju-pip.md)
   * [列表推导式](pythonzhong-ji/lie-biao-tui-dao-shi.md)
   * [正则表达式](pythonzhong-ji/zheng-ze-biao-da-shi.md)
+  * [函数](pythonzhong-ji/han-shu.md)
+    * [匿名函数](pythonzhong-ji/han-shu/ni-ming-han-shu.md)
+    * 闭包函数
+    * 递归函数
 
