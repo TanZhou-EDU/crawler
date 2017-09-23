@@ -15,11 +15,11 @@ F:\Python27\;F:\Python27\Scripts;
 5. 进入CMD运行pip，如下图所示即表示已安装成功
 ![](/assets/1499429337165_9.png)
 #pip常用命令
-安装包 
-1. pip install xxx
-升级包，可以使用-U 或者 --upgrade 
-2. pip install -U xxx
-卸载包 
-3. pip uninstall xxx 
-列出已安装的包 
-4. pip list
+###安装包 
+**pip install xxx**
+###升级包，可以使用-U 或者 --upgrade 
+**pip install -U xxx**
+###卸载包 
+**pip uninstall xxx** 
+###列出已安装的包 
+**pip list**
