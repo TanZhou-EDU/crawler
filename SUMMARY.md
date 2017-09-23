@@ -11,4 +11,5 @@
   * [列表list](pythonji-chu/lie-biao-list.md)
   * [元组tuple](pythonji-chu/yuan-zu-tuple.md)
   * [字典dict](pythonji-chu/zi-dian-dict.md)
+  * [集合set](pythonji-chu/ji-he-set.md)
 
