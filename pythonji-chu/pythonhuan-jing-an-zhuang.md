@@ -21,12 +21,9 @@ window安装python 3.6
 
 ##检测python版本
 
-	1.打开运行,输入cmd或者commond ,输入python命令就可以进入交互模式(组后一行>>>)，交互模式的最开始信息中包含python版本信息
-
-	2.打开运行，输入cmd命令，使用python -V 即可检测python版本信息
-
-	3.直接使用程序中，python文件夹选项中的IDLE进行查看。
-	
+	1. 打开运行,输入cmd或者commond ,输入python命令就可以进入交互模式(组后一行>>>)，交互模式的最开始信息中包含python版本信息
+	2. 打开运行，输入cmd命令，使用python -V 即可检测python版本信息
+	3. 直接使用程序中，python文件夹选项中的IDLE进行查看。	
 
 
 **查看文件后缀**
