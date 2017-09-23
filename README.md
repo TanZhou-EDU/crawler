@@ -1,3 +1,3 @@
-热烈祝贺Python爬虫学院正式成立!
+#热烈祝贺Python爬虫学院正式成立!
 <video id="html5player_html5_api" class="vjs-tech" autoplay="" preload="none" src="blob:https://pan.baidu.com/821b1f06-4e1e-445b-ab8d-275e7a89da5a" poster="https://thumbnail0.baidupcs.com/thumbnail/6819208f9fa7c8a3e991294184320878?fid=3334463819-250528-152784952349538&amp;time=1506164400&amp;rt=sh&amp;sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2FiNW4tFsjTbITJgv8JRPoIJ7TBg%3D&amp;expires=8h&amp;chkv=0&amp;chkbd=0&amp;chkpc=&amp;dp-logid=6164873966941582353&amp;dp-callid=0&amp;size=c850_u580&amp;quality=100&amp;vuk=-&amp;ft=video"><source src="https://pan.baidu.com/share/streaming?channel=chunlei&amp;uk=3334463819&amp;path=%2FPython%E7%88%AC%E8%99%AB%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B%2FQiangzi%20Interview.mp4&amp;sign=76b416b1af069a212b76b9a65c06527f33b943b1&amp;timestamp=1506165945&amp;shareid=970365905&amp;type=M3U8_FLV_264_480&amp;adToken=" type="application/x-flvURL"></video>
 
