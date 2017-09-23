@@ -1,3 +1,67 @@
+#文件基本操作
+###打开文件:
+#####以只读方式打开
+    f = open('/Users/michael/test.txt', 'r') #以只读文本模式打开
+    f = open('/Users/michael/test.jpg', 'rb') #读取二进制文件,图片,视频等
+    f = open('/Users/michael/gbk.txt', 'r', encoding='gbk') #读取GBK编码文件,默认读取UTF-8
+    f = open('/Users/michael/gbk.txt', 'r', encoding='gbk', errors='ignore') #读取文件过程中遇到编码错误直接忽略
+#####以写入方式打开
+    f = open('/Users/michael/test.txt', 'w')
+
+#####**<font size=4>with打开写入</font>**推荐使用
+    用with不必调用f.close()方法,python自动调用
+    with open('/path/to/file', 'r') as f:
+        print(f.read())
+    with open('/Users/michael/test.txt', 'w') as f:
+        f.write('Hello, world!')
+###读取文件内容
+    f.read()
+    f.read(size) 每次最多读取size个字节的内容
+    f.readline() 每次读取一行内容
+    f.readlines() 一次读取所有内容并按行返回list
+###关闭文件
+    f.close()
+###异常处理
+    try:
+        f = open('/path/to/file', 'r')
+        print(f.read())
+    finally:
+        if f:
+        f.close()
+###文件缓冲区buffering
+>将文件内容写入到硬盘设备时，使用系统调用，这类I/O操作的时间很长，为了减少I/O操作的次数，文件通常使用缓冲区（有足够多的数据才进行系统调用），文件的缓存行为，分为全缓冲、行缓存、无缓冲。
+如何设置Python中文件对象的缓冲行文？
+解决方案
+####全缓冲： open 函数的 buffering 设置为大于1的整数n，n为缓冲区大小
+
+    f = open('demo2.txt', 'w', buffering=2048)
+    f.write('+' * 1024)
+    f.write('+' * 1023)
+    # 大于2048的时候就写入文件
+    f.write('-' * 2)
+    f.close()
+####行缓冲： open 函数的 buffering 设置为1
+
+    f = open('demo3.txt', 'w', buffering=1)
+    f.write('abcd')
+    f.write('1234')
+    # 只要加上\n就写入文件中
+    f.write('\n')
+    f.close()
+####无缓冲： open 函数的 buffering 设置为0
+
+    f = open('demo4.txt', 'w', buffering=0)
+    f.write('a')
+    f.write('b')
+    f.close()
+
+
+
+
+
+
+
+
 ##import os 操作系统接口函数
 ###<strong>os.name</strong>  返回操作系统类型:
 - nt : window
