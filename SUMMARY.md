@@ -14,7 +14,7 @@
   * [字符串 String](pythonji-chu/zi-fu-chuan.md)
   * [数字 Number](pythonji-chu/shu-zi-number.md)
   * [字符串格式化](pythonji-chu/zi-fu-chuan-ge-shi-hua.md)
-* [Python中级](pythonzhong-ji.md)
+* [Python进阶](pythonzhong-ji.md)
   * [模块导入与包管理](pythonzhong-ji/mo-kuai-guan-li.md)
     * [模块导入](pythonzhong-ji/mo-kuai-guan-li/mo-kuai-dao-ru.md)
     * [包管理工具pip](pythonzhong-ji/mo-kuai-guan-li/bao-guan-li-gong-ju-pip.md)
@@ -26,4 +26,9 @@
     * [递归函数](pythonzhong-ji/han-shu/di-gui-han-shu.md)
   * [IO编程](pythonzhong-ji/iobian-cheng.md)
     * [os模块和shutil模块](pythonzhong-ji/iobian-cheng/osmo-kuai-he-shutil-mo-kuai.md)
+* [Python高级](pythongao-ji.md)
+  * [面向对象程序设计](pythongao-ji/mian-xiang-dui-xiang-cheng-xu-she-ji.md)
+  * 描述器
+  * 装饰器
+  * 生成器
 
