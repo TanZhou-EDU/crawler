@@ -96,7 +96,7 @@ python代码主要分为两大类：单行代码和代码组/块。
 
 输入：
 
-	inpit()
+	input()
 
 ##python的变量
 
